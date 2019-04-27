@@ -25,7 +25,7 @@ with open('{}/{}'.format(home, CONFIG_PATH), 'w') as conf_file:
 
 if(CHOSEN_PROFILE == "DVORAK" ):
 #switch to US Layout
-	subprocess.run(["/usr/local/bin/issw", "com.apple.keyboardlayout.roman.keylayout.US"])
+	subprocess.run(["/usr/local/bin/issw", "com.apple.keylayout.US"])
 else:
 #switch to DEUTSCH Layout
 	subprocess.run(["/usr/local/bin/issw", "com.apple.keylayout.German"])

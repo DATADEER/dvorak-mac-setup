@@ -1,12 +1,11 @@
 # Dvorak Mac Keyboard setup
+This setup helps to seamlessly switch between the QWERTZ and DVORAK Layout
 
-## Custom US/German Keyboard Layout
-Source: https://hci.rwth-aachen.de/usgermankeyboard
+## Setup US Keybaord Layout
 
-1. Copy `Roman.bundle` from `dvorak-mac-setup/MacKeyboardLayout/Roman.bundle` into `/Library/Keyboard Layouts`
-2. Launch `System Preferences` under the Apple menu, go to the `Keyboard Preferences` pane, and select the `Input Sources` tab.
-3. Click on the `+` in the lower left corner. In the overlay, select `Others`, then the `U.S. With Umlauts` via Option Key keyboard layout. Click `Add` to close the overlay.
-4. You can now select `U.S. With Umlauts` from the flag symbol in the menu bar.
+1. Launch `System Preferences` under the Apple menu, go to the `Keyboard Preferences` pane, and select the `Input Sources` tab.
+2. Click on the `+` in the lower left corner. In the overlay, select `English`, then the `U.S.` via Option Key keyboard layout. Click `Add` to close the overlay.
+4. You can now select `U.S.` from the flag symbol in the menu bar.
 
 ## Dvorak CMD-QWERTY Switch Layout for Karabiner Elements
 
