@@ -27,3 +27,5 @@ This setup helps to seamlessly switch between the QWERTZ and DVORAK Layout
 ## Add support for umlaut modifier key
 1. Install the `Umlauts` complex modification by copying `dvorak-mac-setup/KarabinerElements/umlauts.json` into `~/.config/karabiner/assets/complex_modifications`
 2. Enable the `Umlauts` complex modification for the `DVORAK` Profile inside `Karabiner Elements`
+3. This allows you to type `left_alt`+`u` to get the `¨`. If you procede writing `a`,`o` or `u` after the `¨` it will result in 
+`ä`, `ö` or `ü`
