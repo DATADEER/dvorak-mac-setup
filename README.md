@@ -23,3 +23,7 @@ This setup helps to seamlessly switch between the QWERTZ and DVORAK Layout
 2. Import the Workflow from `dvorak-mac-setup/Alfred/SwitchLayoutWorkflow`
 3. Adjust Profile names or Keyboard Layout names in `dvorak-mac-setup/Alfred/SwitchLayoutWorkflow/set.py` if necessary
 4. Use the alfred command `111` to switch between profiles
+
+## Add support for umlaut modifier key
+1. Install the `Umlauts` complex modification by copying `dvorak-mac-setup/KarabinerElements/umlauts.json` into `~/.config/karabiner/assets/complex_modifications`
+2. Enable the `Umlauts` complex modification for the `DVORAK` Profile inside `Karabiner Elements`
