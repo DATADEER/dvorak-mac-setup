@@ -1,8 +1,8 @@
 {
-  "title": "TEST OVERWRITING UMLAUT FUNCTIONALITY",
+  "title": "Umlaut Moddifier"
   "rules": [
     {
-      "description": "TEST OVERWRITING UMLAUT FUNCTIONALITY",
+      "description": "Add support for the Diacritical mark '¨'",
       "manipulators": [
         {
           "type": "basic",
