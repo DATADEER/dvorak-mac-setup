@@ -1,0 +1,29 @@
+{
+  "title": "TEST OVERWRITING UMLAUT FUNCTIONALITY",
+  "rules": [
+    {
+      "description": "TEST OVERWRITING UMLAUT FUNCTIONALITY",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "f",
+            "modifiers": {
+              "mandatory": [
+                "left_alt"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "u",
+              "modifiers": [
+                "left_alt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
