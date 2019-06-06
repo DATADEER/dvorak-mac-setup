@@ -2,7 +2,7 @@
   "title": "Umlaut Moddifier"
   "rules": [
     {
-      "description": "Add support for the Diacritical mark '¨'",
+      "description": "Add support for the Diacritical mark [¨] ",
       "manipulators": [
         {
           "type": "basic",
