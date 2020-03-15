@@ -1,5 +1,5 @@
 # Disclaimer
-*I haved stopped using the Dvorak Layout, after reaching a speed of 20 wpm, because the hassle of remaping and relearnig keyboard shortcuts wasn't worth the benefits of the improved layout*
+*I haved **stopped using** the **Dvorak** Layout, after reaching a speed of 20 wpm, because the hassle of remaping and relearnig keyboard shortcuts wasn't worth the benefits of the improved layout*
 
 # Dvorak Mac Keyboard setup
 This setup helps to seamlessly switch between the QWERTZ and DVORAK Layout
